@@ -1,0 +1,2 @@
+robot_keyboard_console
+-DCATKIN_DEVEL_PREFIX=/home/thefakhreddin/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thefakhreddin/catkin_ws/install -G Unix Makefiles
